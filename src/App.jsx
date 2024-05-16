@@ -20,7 +20,7 @@ function App() {
     setItems(updatedItesms);
   }
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-sky-500">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-gray-900 via-violet-600 to-gray-800">
       <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full">
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
           Add To List
